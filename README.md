@@ -13,7 +13,4 @@ Script output is a CSV file that contains the following:
 
 Data Source URL: ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/
 
-## Questions
-1. Does it matter if there are multiple weather stations within a given city? 
-
 
